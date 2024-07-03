@@ -1,3 +1,7 @@
+<img align="right" alt="coding" width="400" src="![Uploading github bannar.png…]()
+">
+
+
 ### Hi there 👋, my name is Moni.
 #### I'm a web developer specializing in building dynamic and responsive web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.
 
