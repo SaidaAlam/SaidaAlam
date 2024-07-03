@@ -5,9 +5,8 @@
 
 I have a passion or learning and sharing my knowledge with others. I'm strategic goal-oriented and always work with an end goal in mind. 
 
-Skills:  C/ C++ / HTML / CSS / JS / React / MongoDB/ Firebase
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+Skills:  C/ C++ / HTML / CSS / JS / React / MongoDB/ Firebase
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web development. 
