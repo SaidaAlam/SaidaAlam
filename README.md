@@ -17,7 +17,7 @@ I have a passion or learning and sharing my knowledge with others. I'm strategic
 <style>
     .icon-list {
         display: flex;
-        gap: 20px; /* Adjust the gap as needed */
+        gap: 50px;
     }
 </style>
 
