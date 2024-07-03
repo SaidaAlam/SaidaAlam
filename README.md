@@ -14,13 +14,6 @@ I have a passion or learning and sharing my knowledge with others. I'm strategic
 - 👯 I’m looking to collaborate on github. 
 - 📫 How to reach me: Email : alam.saida18@gmail.com 
 
-<style>
-    .icon-list {
-        display: flex;
-        gap: 50px;
-    }
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <div class="icon-list">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
