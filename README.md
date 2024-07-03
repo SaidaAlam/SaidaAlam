@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, my name is Moni.</h1>
 <h3 align="center">I'm a web developer specializing in building dynamic and responsive websites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 I have a passion or learning and sharing my knowledge with others. I'm strategic goal-oriented and always work with an end goal in mind. 
 
@@ -22,8 +22,6 @@ Skills:  C/ C++ / HTML / CSS / JS / React / MongoDB/ Firebase
 
 <h3 align="left">Support :</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs"</p>
 
 Achievements : 
 
