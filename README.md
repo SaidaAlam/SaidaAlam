@@ -14,8 +14,15 @@ I have a passion or learning and sharing my knowledge with others. I'm strategic
 - 👯 I’m looking to collaborate on github. 
 - 📫 How to reach me: Email : alam.saida18@gmail.com 
 
+<style>
+    .icon-list {
+        display: flex;
+        gap: 20px; /* Adjust the gap as needed */
+    }
+</style>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div class="icon-list">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     </a>
@@ -46,7 +53,7 @@ I have a passion or learning and sharing my knowledge with others. I'm strategic
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
     </a>
-</p>
+</div>
 
 
 <h3 align="left">Social Links :</h3>
