@@ -1,7 +1,8 @@
 ![logo](https://github.com/Saidaalam/github-banner/blob/main/github%20bannar.png)
 
-### Hi there 👋, my name is Moni.
-#### I'm a web developer specializing in building dynamic and responsive web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.
+<h1 align="center">### Hi there 👋, my name is Moni.</h1>
+<h3 align="center">
+#### I'm a web developer specializing in building dynamic and responsive web applications using HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB.</h3>
 
 I have a passion or learning and sharing my knowledge with others. I'm strategic goal-oriented and always work with an end goal in mind. 
 
